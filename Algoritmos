@@ -1,0 +1,26 @@
+Problema 1: Dado un precio, calcular su descuento considerando que si el precio es mayor a 100 pesos el descuento será del 10% de otro modo solo descontar 2%
+Adquirir un producto cuyo precio sea mayor a 100 pesos
+si el producto es mayor a 100 pesos aplicar un descuento del 10%, multiplicando la cantidad por 0.10
+Si el producto cuesta menos a 100 pesos aplicar un descuento del 2% multiplicando el precio por 0.2
+
+
+Problema 2: Un algoritmo que lea 2 números  y calcule su suma, resta, multiplicación y división
+Num1 debe ser siempre mayor a Num2
+leer Num1 y Num2
+Si Num1 es menor a Num1 regresar al paso anterior
+Sumar numero1+numero2
+restar numero1-numero2
+multiplicar numero1xnumero2
+dividir numero1/numero2
+
+
+
+Problema 3: Leer 3 numeros que van a denotar una fecha: día, mes y año. Verificar si es una fecha valida
+La fecha será 31/10/2019
+Dia es igual a NUM1 Mes es igual a NUM2 Y año es Num3
+NUM1 debe ser menor igual a 31, Num2 debe ser menor igual a 12.   NUM3 debe ser mayor igual a 2019 
+Día es igual a 31, por lo tanto es válido
+Mes es es menor a 12, es válido
+Año es igual a 2019, es válido
+
+
